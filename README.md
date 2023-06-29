@@ -50,3 +50,17 @@ http://127.0.0.1:8000/
 - There should be at least one doctor in hospital before admitting patient. So first add doctor.
 - On update page of doctor/patient you must have to update password.
 
+## Screenshots
+A few screenshots of the webpage:-
+
+Dashboard:
+![image](https://github.com/kxrthi/MedicAlert/assets/88156615/e62fc2cf-7d78-46f6-a812-c65b752d3ef3)
+
+Admin Dashboard:
+![image](https://github.com/kxrthi/MedicAlert/assets/88156615/c833a5bb-4693-4c72-af4c-40997e35ec25)
+
+Invoice:
+![image](https://github.com/kxrthi/MedicAlert/assets/88156615/9e66784c-a81f-41ca-be9d-6919d1b2e28d)
+
+
+
